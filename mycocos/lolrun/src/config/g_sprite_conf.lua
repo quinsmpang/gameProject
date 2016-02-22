@@ -1,0 +1,34 @@
+local data = 
+{
+[1]={
+["sp_id"]="小伙伴id", 
+["sp_skcd"]="技能cd", 
+["sp_remark"]="技能描述", 
+["sp_level"]="星级", 
+["sp_exp"]="加经验", 
+["sp_punching"]="冲刺片刻", 
+["sp_rebirth"]="复活半价", 
+["sp_name"]="小伙伴名称", 
+["sp_defense"]="加防御", 
+["sp_attack"]="加攻击力", 
+["sp_gold"]="加金币", 
+["sp_life"]="加血", 
+}
+, 
+[2]={
+["sp_id"]=1, 
+["sp_skcd"]=0.8, 
+["sp_remark"]="提莫老爸的孙子", 
+["sp_level"]=1, 
+["sp_exp"]=1, 
+["sp_punching"]=1, 
+["sp_rebirth"]=1, 
+["sp_name"]="提莫的儿子", 
+["sp_defense"]=1, 
+["sp_attack"]=1, 
+["sp_gold"]=1, 
+["sp_life"]=1, 
+}
+, 
+}
+return data

@@ -1,0 +1,1 @@
+g_userinfo.mac = "413ec4a3c3a2cb91f12311238" 
