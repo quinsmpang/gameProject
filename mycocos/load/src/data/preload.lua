@@ -1,0 +1,49 @@
+module('data.preload')
+--[[
+记录预加载的sprite，声音
+由preload.py生成，不要修改
+]]
+sprites={
+}
+
+sounds={
+  "sound/alarm.mp3",
+  "sound/arrow1.mp3",
+  "sound/arrow2.mp3",
+  "sound/arrow3.mp3",
+  "sound/axe.mp3",
+  "sound/blade1.mp3",
+  "sound/blade2.mp3",
+  "sound/blade3.mp3",
+  "sound/blizzard.mp3",
+  "sound/breath.mp3",
+  "sound/chongci.mp3",
+  "sound/coin1.mp3",
+  "sound/cow.mp3",
+  "sound/down.mp3",
+  "sound/dragon.mp3",
+  "sound/fireball.mp3",
+  "sound/gargoyle.mp3",
+  "sound/gob.mp3",
+  "sound/golem.mp3",
+  "sound/ice.mp3",
+  "sound/join.mp3",
+  "sound/laught.mp3",
+  "sound/magic2.mp3",
+  "sound/magic3.mp3",
+  "sound/man1.mp3",
+  "sound/meteor1.mp3",
+  "sound/meteor2.mp3",
+  "sound/ogre.mp3",
+  "sound/pig.mp3",
+  "sound/reflect.mp3",
+  "sound/rock.mp3",
+  "sound/rolling.mp3",
+  "sound/spear.mp3",
+  "sound/step.mp3",
+  "sound/troll.mp3",
+  "sound/woman1.mp3",
+  "sound/woman2.mp3",
+  "sound/zombie.mp3",
+}
+
